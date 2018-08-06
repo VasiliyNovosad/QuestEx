@@ -32,3 +32,4 @@ npm-debug.log
 /.fetch
 erl_crash.dump
 *.beam
+/.elixir_ls
