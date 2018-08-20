@@ -13,7 +13,7 @@ config :logger, level: :warn
 config :quest, Quest.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
-  password: "postgres",
+  password: "V0rtex",
   database: "quest_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
